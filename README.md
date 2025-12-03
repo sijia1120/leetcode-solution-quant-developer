@@ -8,6 +8,7 @@ The table below shows solved problems with direct links to their detailed soluti
 
 | ID   | Title | Difficulty | Languages | Topic |
 |------|--------|------------|-----------|--------|
+| 0072 | [Edit Distance ↗](./problems/0072-Edit-Distance) | Medium   | Java | DP |
 | 0198 | [House Robber ↗](./problems/0198-House-Robber) | Medium   | Java | DP |
 | 0674 | [Longest Continuous Increasing Subsequence ↗](./problems/0674-longest-continuous-increasing-subsequence) | Easy   | Java | DP |
 | 0002 | [Add Two Numbers ↗](./problems/0002-add-two-numbers/README.md) | Medium | Python / Java / C++ |  Linked List, Math |
