@@ -20,6 +20,6 @@ The table below shows solved problems with direct links to their detailed soluti
 
 | ID   | Title | Difficulty | Languages | Solution | Topic |
 |------|--------|------------|-----------|-----------|--------|
-| 0674 | [Longest Continuous Increasing Subsequence ↗](./problems/0001-two-sum/README.md) | Easy   | Java | [View ↗](./problems/0674-longest-continuous-increasing-subsequence) | DP |
+| 0674 | [Longest Continuous Increasing Subsequence ↗] | Easy   | Java | [View ↗](./problems/0674-longest-continuous-increasing-subsequence) | DP |
 | 0002 | [Add Two Numbers ↗](./problems/0002-add-two-numbers/README.md) | Medium | Python / Java / C++ | [View ↗](./problems/0002-add-two-numbers/README.md) | Linked List, Math |
 | ...  | ... | ... | ... | ... | ... |
