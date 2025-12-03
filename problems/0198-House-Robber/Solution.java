@@ -4,6 +4,8 @@
 // [1] Rob only the first k-1 houses, don't rob the last house
 // [2] Rob only the first k-2 houses, then rob the last house
 
+// --------------- Solution I - Java: -------------------------------
+
 class Solution {
     public int rob(int[] nums) {
         int[] dp = new int[nums.length];
@@ -17,3 +19,23 @@ class Solution {
         return Math.max(dp[nums.length - 1], dp[nums.length - 2]);
     }
 }
+
+// --------------- Solution II - Java: -------------------------------
+class Solution {
+    public int rob(int[] nums) {
+        if (nums.length == 0) return 0;
+        if (nums.length == 1) return nums[0];
+        
+        int[] value = new int[nums.length+1];
+        value[0] = 0;
+        value[1] = nums[0];
+
+        for (int i = 2; i <= nums.length; i++) {
+            value[i] = Math.max(value[i - 1], value[i - 2] + nums[i]);
+        }
+        return value[n];
+    }
+}
+
+
+
