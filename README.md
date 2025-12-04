@@ -10,6 +10,7 @@ The table below shows solved problems with direct links to their detailed soluti
 |------|--------|------------|-----------|--------|
 | 0072 | [Edit Distance ↗](./problems/0072-Edit-Distance.java) | Medium   | Java | DP |
 | 0198 | [House Robber ↗](./problems/0198-House-Robber.java) | Medium   | Java | DP |
+| 0279 | [Perfect Squares ↗](./problems/0279-Perfect-Squares.java) | Medium   | Java | DP |
 | 0343 | [Integer Break ↗](./problems/0343-Integer-Break.java) | Medium   | Java | DP |
 | 0674 | [Longest Continuous Increasing Subsequence ↗](./problems/0674-longest-continuous-increasing-subsequence.java) | Easy   | Java | DP |
 | 0002 | [Add Two Numbers ↗](./problems/0002-add-two-numbers/README.md) | Medium | Python / Java / C++ |  Linked List, Math |
