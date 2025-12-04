@@ -8,7 +8,8 @@ The table below shows solved problems with direct links to their detailed soluti
 
 | ID   | Title | Difficulty | Languages | Topic |
 |------|--------|------------|-----------|--------|
-| 0070 | [Climbing Stairs ↗](./problems/0070-Climbing-Stairs.java) | Medium   | Java | DP |
+| 0053 | [Maximum Subarray ↗](./problems/0053-Maximum-Subarrays.java) | Medium   | Java | DP |
+| 0070 | [Climbing Stairs ↗](./problems/0070-Climbing-Stairs.java) | Easy   | Java | DP |
 | 0072 | [Edit Distance ↗](./problems/0072-Edit-Distance.java) | Medium   | Java | DP |
 | 0198 | [House Robber ↗](./problems/0198-House-Robber.java) | Medium   | Java | DP |
 | 0279 | [Perfect Squares ↗](./problems/0279-Perfect-Squares.java) | Medium   | Java | DP |
