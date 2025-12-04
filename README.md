@@ -1,4 +1,4 @@
-# leetcode-solution-quant-developer
+# Leetcode Solution Quant Developer
 
 This repository contains my personal LeetCode solutions designed to strengthen core algorithmic and data-structure skills required for Quant Developer, Trading, and System Design interview roles.
 
