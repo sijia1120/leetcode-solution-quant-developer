@@ -15,6 +15,7 @@ The table below shows solved problems with direct links to their detailed soluti
 | 0279 | [Perfect Squares ↗](./problems/0279-Perfect-Squares.java) | Medium   | Java | DP |
 | 0322 | [Coin Change ↗](./problems/0322-Coin-Change.java) | Medium   | Java | DP |
 | 0343 | [Integer Break ↗](./problems/0343-Integer-Break.java) | Medium   | Java | DP |
+| 0605 | [Can Place Flowers ↗](./problems/605-Can-Place-Flowers.java) | Easy   | Java | Greedy |
 | 0674 | [Longest Continuous Increasing Subsequence ↗](./problems/0674-longest-continuous-increasing-subsequence.java) | Easy   | Java | DP |
 | 0002 | [Add Two Numbers ↗](./problems/0002-add-two-numbers/README.md) | Medium | Python / Java / C++ |  Linked List, Math |
 | ...  | ... | ... | ... | ... |
