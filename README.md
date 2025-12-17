@@ -10,6 +10,7 @@ The table below shows solved problems with direct links to their detailed soluti
 |------|--------|------------|-----------|--------|
 | 0050 | [Pow(x,n) ↗](./problems/0050-Pow(x,n).java) | Medium   | Java | Math |
 | 0053 | [Maximum Subarray ↗](./problems/0053-Maximum-Subarrays.java) | Medium   | Java | DP |
+| 0069 | [Sqrt(x) ↗](./problems/0069-Sqrt(x).java) | Easy   | Java | Math |
 | 0070 | [Climbing Stairs ↗](./problems/0070-Climbing-Stairs.java) | Easy   | Java | DP |
 | 0072 | [Edit Distance ↗](./problems/0072-Edit-Distance.java) | Medium   | Java | DP |
 | 0198 | [House Robber ↗](./problems/0198-House-Robber.java) | Medium   | Java | DP |
