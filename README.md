@@ -8,6 +8,7 @@ The table below shows solved problems with direct links to their detailed soluti
 
 | ID   | Title | Difficulty | Languages | Topic |
 |------|--------|------------|-----------|--------|
+| 0008 | [String to Integer ↗](./problems/0008-String-to-Integer.java) | Medium   | Java | Math |
 | 0043 | [Multiply Strings ↗](./problems/0043-Multiply-Strings.java) | Medium   | Java | Math |
 | 0050 | [Pow(x,n) ↗](./problems/0050-Pow(x,n).java) | Medium   | Java | Math |
 | 0053 | [Maximum Subarray ↗](./problems/0053-Maximum-Subarrays.java) | Medium   | Java | DP |
