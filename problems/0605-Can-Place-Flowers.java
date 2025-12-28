@@ -31,3 +31,21 @@ class Solution {
         return n <= 0;
     }
 }
+
+
+# =========== Python ================
+class Solution:
+    def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
+        if n == 0: return True
+        i = 0
+
+        while (n>0) and (i < len(flowerbed)):
+            if (flowerbed[i] == 1):
+                i += 2 
+            elif  (i == len(flowerbed)-1) or (flowerbed[i+1] == 0):
+                n -= 1 
+                i += 2
+            else: 
+                i +=3
+        return n<=0
+
