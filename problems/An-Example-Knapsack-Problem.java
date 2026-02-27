@@ -20,11 +20,19 @@ class Solution {
         } else {
           dp[i][j] = Math.max(dp[i-1][j], dp[i-1][j- weight[i-1]] + value[i-1]);
         }
-  
-    
       }
     }
     System.out.println(dp[weight.length][bagWeight.length]);
     return dp[weight.length][bagWeight.length];//
   }
 }
+
+
+// ============ 背包问题的优化 （滚动数组）================
+// 1. j < w[i] 即背包容量小于当前物品的容量
+// dp[j] = dp[j]
+
+// 2. j >= w[i] 即背包容量大于等于当前物品的容量
+// 2.1 不拿：dp[j] = dp[j] 
+// 2.2 拿：dp[j] = dp[ j - w[i]] + c[i] 
+
